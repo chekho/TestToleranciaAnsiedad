@@ -1,0 +1,734 @@
+[
+  {
+    "Pregunta": "¿Estas haciendo un test?",
+    "tipo": "unica",
+    "respuestas": {
+      "1": "Si",
+      "2": "Estoy haciendo un test",
+      "3": "Solo contestando"
+    },
+    "opciones": {
+      "1": "Si",
+      "2": "Estoy haciendo un test",
+      "3": "Solo contestando"
+    }
+  },
+  {
+    "Pregunta": "¿Estás utilizando un dispositivo?",
+    "tipo": "unica",
+    "respuestas": { "1": "si", "2": "nose que estoy usando", "3": "puede ser" },
+    "opciones": { "1": "si", "2": "nose que estoy usando", "3": "puede ser" }
+  },
+  {
+    "Pregunta": "¿Tienes un nombre?",
+    "tipo": "unica",
+    "respuestas": {
+      "1": "si",
+      "2": "no lo sé",
+      "3": "nunca me había fijado en eso"
+    },
+    "opciones": {
+      "1": "si",
+      "2": "no lo sé",
+      "3": "nunca me había fijado en eso"
+    }
+  },
+  {
+    "Pregunta": "¿Estás vivo?",
+    "tipo": "unica",
+    "respuestas": {
+      "1": "no tengo ni idea",
+      "2": "por supuesto",
+      "3": "prefiero no contestar"
+    },
+    "opciones": {
+      "1": "no tengo ni idea",
+      "2": "por supuesto",
+      "3": "prefiero no contestar"
+    }
+  },
+  {
+    "Pregunta": "¿Estás respondiendo?",
+    "tipo": "unica",
+    "respuestas": { "1": "no", "2": "si", "3": "nose" },
+    "opciones": { "1": "no", "2": "si", "3": "nose" }
+  },
+  {
+    "Pregunta": "¿Cómo es el cielo?",
+    "tipo": "unica",
+    "respuestas": { "1": "con nubes", "2": "Azul" },
+    "opciones": { "1": "con nubes", "2": "Azul" }
+  },
+  {
+    "Pregunta": "¿Cuántas células hay en tu cuerpo?",
+    "tipo": "unica",
+    "respuestas": { "1": "mas de 1", "2": "mas de 10", "3": "mas de 100" },
+    "opciones": { "1": "mas de 1", "2": "mas de 10", "3": "mas de 100" }
+  },
+  {
+    "Pregunta": "Las personas cuando recién van conociendo a una persona¿Que hacen?",
+    "tipo": "unica",
+    "respuestas": {
+      "1": "la saludan",
+      "2": "le preguntan el nombre",
+      "3": "le preguntan del día"
+    },
+    "opciones": {
+      "1": "la saludan",
+      "2": "le preguntan el nombre",
+      "3": "le preguntan del día"
+    }
+  },
+  {
+    "Pregunta": "¿Que es una herida?",
+    "tipo": "unica",
+    "respuestas": { "1": "sufrir un daño", "2": "celulas destruidas" },
+    "opciones": { "1": "sufrir un daño", "2": "celulas destruidas" }
+  },
+  {
+    "Pregunta": "¿Eres un ser humano?",
+    "tipo": "unica",
+    "respuestas": {
+      "1": "soy un homo sapiens sapiens",
+      "2": "soy un organismo vivo",
+      "3": "si"
+    },
+    "opciones": {
+      "1": "soy un homo sapiens sapiens",
+      "2": "soy un organismo vivo",
+      "3": "si"
+    }
+  },
+  {
+    "Pregunta": "¿Que tiene el viento en nuestro alrededor?",
+    "tipo": "unica",
+    "respuestas": { "1": "bacterias", "2": "temperatura", "3": "velocidad" },
+    "opciones": { "1": "bacterias", "2": "temperatura", "3": "velocidad" }
+  },
+  {
+    "Pregunta": "¿En qué nos ayuda nuestra sangre?",
+    "tipo": "unica",
+    "respuestas": {
+      "1": "mantenernos vivos",
+      "2": "hidratar los órganos",
+      "3": "medio de transferencia"
+    },
+    "opciones": {
+      "1": "mantenernos vivos",
+      "2": "hidratar los órganos",
+      "3": "medio de transferencia"
+    }
+  },
+  {
+    "Pregunta": "¿Sabes leer?",
+    "tipo": "unica",
+    "respuestas": {
+      "1": "si",
+      "2": "nose lo que dice",
+      "3": "nose solo contesto y ya"
+    },
+    "opciones": {
+      "1": "si",
+      "2": "nose lo que dice",
+      "3": "nose solo contesto y ya"
+    }
+  },
+  {
+    "Pregunta": "¿Que te parecen las preguntas?",
+    "tipo": "unica",
+    "respuestas": {
+      "1": "absurdas",
+      "2": "graciosas",
+      "3": "¿Esto es un juego?",
+      "4": "que desperdician mi tiempo"
+    },
+    "opciones": {
+      "1": "absurdas",
+      "2": "graciosas",
+      "3": "¿Esto es un juego?",
+      "4": "que desperdician mi tiempo"
+    }
+  },
+  {
+    "Pregunta": "¿Cuál de los siguientes libros fue vendido?",
+    "tipo": "unica",
+    "respuestas": { "1": "la biblia", "2": "DSM-V", "3": "meditaciones" },
+    "opciones": { "1": "la biblia", "2": "DSM-V", "3": "meditaciones" }
+  },
+  {
+    "Pregunta": "¿Existe el sol?",
+    "tipo": "unica",
+    "respuestas": {
+      "1": "no se. solo se que hay una estrella muy cerca de nosotros que nos brinda calor",
+      "2": "si"
+    },
+    "opciones": {
+      "1": "no se. solo se que hay una estrella muy cerca de nosotros que nos brinda calor",
+      "2": "si"
+    }
+  },
+  {
+    "Pregunta": "En la raza humana¿Que hay?",
+    "tipo": "unica",
+    "respuestas": { "1": "reproducción", "2": "edad", "3": "vida y muerte" },
+    "opciones": { "1": "reproducción", "2": "edad", "3": "vida y muerte" }
+  },
+  {
+    "Pregunta": "¿Tienes cerebro?",
+    "tipo": "unica",
+    "respuestas": { "1": "si" },
+    "opciones": { "1": "si", "2": "no" }
+  },
+  {
+    "Pregunta": "¿Cuantos meses tiene un año?",
+    "tipo": "unica",
+    "respuestas": { "2": "12" },
+    "opciones": { "1": "13", "2": "12", "3": "11" }
+  },
+  {
+    "Pregunta": "¿Cuánto es 12+17?",
+    "tipo": "unica",
+    "respuestas": { "1": "29" },
+    "opciones": { "1": "29", "2": "30", "3": "31" }
+  },
+  {
+    "Pregunta": "Si estás en un grupo de 4 personas, uno llamado pancho, uno Pedro, otra Isabel ¿Conoces al Último?",
+    "tipo": "unica",
+    "respuestas": { "2": "si" },
+    "opciones": { "1": "no", "2": "si" }
+  },
+  {
+    "Pregunta": "¿Cuál es el color más oscuro entre las opciones?",
+    "tipo": "unica",
+    "respuestas": { "2": "negro" },
+    "opciones": { "1": "blanco", "2": "negro", "3": "gris", "4": "amarillo" }
+  },
+  {
+    "Pregunta": "¿Que número de pregunta es esta?",
+    "tipo": "unica",
+    "respuestas": { "1": "23" },
+    "opciones": { "1": "23", "2": "290", "3": "8" }
+  },
+  {
+    "Pregunta": "¿Alguna vez has comido?",
+    "tipo": "unica",
+    "respuestas": { "3": "si" },
+    "opciones": { "1": "no se", "2": "no", "3": "si" }
+  },
+  {
+    "Pregunta": "¿Porque es importante dormir?",
+    "tipo": "unica",
+    "respuestas": { "1": "para recuperar energía y no desgastarnos" },
+    "opciones": {
+      "1": "para recuperar energía y no desgastarnos",
+      "2": "es inútil",
+      "3": "el cuerpo no lo necesita"
+    }
+  },
+  {
+    "Pregunta": "¿Que es la sabiduría?",
+    "tipo": "unica",
+    "respuestas": { "3": "saber utilizar tu conocimiento y que tanto tienes" },
+    "opciones": {
+      "1": "pepe pica papas",
+      "2": "esta no es la opción",
+      "3": "saber utilizar tu conocimiento y que tanto tienes"
+    }
+  },
+  {
+    "Pregunta": "Segun el título¿Que mide la prueba?",
+    "tipo": "unica",
+    "respuestas": { "2": "tolerancia al estrés y ansiedad" },
+    "opciones": {
+      "1": "guapura",
+      "2": "tolerancia al estrés y ansiedad",
+      "3": "nada"
+    }
+  },
+  {
+    "Pregunta": "¿Cuál es una serie de doctores?",
+    "tipo": "unica",
+    "respuestas": { "2": "doctor house" },
+    "opciones": {
+      "1": "el ogro y el burrito",
+      "2": "doctor house",
+      "3": "los juegos de \"hay que hambre tengo\""
+    }
+  },
+  {
+    "Pregunta": "Hasta ahorita¿Te has rendido?",
+    "tipo": "unica",
+    "respuestas": { "2": "no" },
+    "opciones": { "1": "si", "2": "no" }
+  },
+  {
+    "Pregunta": "¿Esto es una pregunta?",
+    "tipo": "unica",
+    "respuestas": { "2": "si" },
+    "opciones": { "1": "no", "2": "si" }
+  },
+  {
+    "Pregunta": "El día 56 ¿Que número de día es?",
+    "tipo": "unica",
+    "respuestas": { "2": "56" },
+    "opciones": { "1": "50", "2": "56", "3": "62" }
+  },
+  {
+    "Pregunta": "¿Cuantos días hay en la semana?",
+    "tipo": "unica",
+    "respuestas": { "3": "7" },
+    "opciones": { "1": "5", "2": "6", "3": "7" }
+  },
+  {
+    "Pregunta": "¿Cómo se llama tu cerebro?",
+    "tipo": "unica",
+    "respuestas": { "1": "cerebro" },
+    "opciones": { "1": "cerebro", "2": "pie", "3": "mano" }
+  },
+  {
+    "Pregunta": "Esta es la última pregunta de la fase 2, ¿Está es la última pregunta de la fase 2?",
+    "tipo": "unica",
+    "respuestas": { "2": "si" },
+    "opciones": { "1": "no", "2": "si" }
+  },
+  {
+    "Pregunta": "¿Con qué letras escribes tu nombre?",
+    "tipo": "unica",
+    "respuestas": { "2": "Con letras" },
+    "opciones": { "1": "Con números", "2": "Con letras", "3": "Con dibujos" }
+  },
+  {
+    "Pregunta": "¿Qué letra va después de la \"A\"?",
+    "tipo": "unica",
+    "respuestas": { "2": "B" },
+    "opciones": { "1": "C", "2": "B", "3": "D" }
+  },
+  {
+    "Pregunta": "¿Qué letra va antes de la \"B\"?",
+    "tipo": "unica",
+    "respuestas": { "1": "A" },
+    "opciones": { "1": "A", "2": "X", "3": "W" }
+  },
+  {
+    "Pregunta": "¿Qué palabra es más corta?",
+    "tipo": "unica",
+    "respuestas": { "1": "Sol" },
+    "opciones": { "1": "Sol", "2": "Luna", "3": "Estrella" }
+  },
+  {
+    "Pregunta": "¿Cuál es la primera letra de la palabra \"perro\"?",
+    "tipo": "unica",
+    "respuestas": { "1": "P" },
+    "opciones": { "1": "P", "2": "E", "3": "R" }
+  },
+  {
+    "Pregunta": "¿Con qué letra empieza la palabra \"gato\"?",
+    "tipo": "unica",
+    "respuestas": { "1": "G" },
+    "opciones": { "1": "G", "2": "T", "3": "A" }
+  },
+  {
+    "Pregunta": "¿Cuántas letras tiene la palabra \"casa\"?",
+    "tipo": "unica",
+    "respuestas": { "2": "4" },
+    "opciones": { "1": "3", "2": "4", "3": "5" }
+  },
+  {
+    "Pregunta": "¿Qué palabra es más larga?",
+    "tipo": "unica",
+    "respuestas": { "2": "Mariposa" },
+    "opciones": { "1": "Flor", "2": "Mariposa", "3": "Sol" }
+  },
+  {
+    "Pregunta": "¿Qué palabra rima con \"ratón\"?",
+    "tipo": "unica",
+    "respuestas": { "2": "Camión" },
+    "opciones": { "1": "Perro", "2": "Camión", "3": "Árbol" }
+  },
+  {
+    "Pregunta": "¿Cuál palabra es un saludo?",
+    "tipo": "unica",
+    "respuestas": { "1": "Hola" },
+    "opciones": { "1": "Hola", "2": "Piedra", "3": "Libro" }
+  },
+  {
+    "Pregunta": "¿Qué palabra es un animal?",
+    "tipo": "unica",
+    "respuestas": { "2": "Vaca" },
+    "opciones": { "1": "Árbol", "2": "Vaca", "3": "Mesa" }
+  },
+  {
+    "Pregunta": "¿Qué palabra sirve para despedirse?",
+    "tipo": "unica",
+    "respuestas": { "2": "Adiós" },
+    "opciones": { "1": "Silla", "2": "Adiós", "3": "Zapato" }
+  },
+  {
+    "Pregunta": "¿Cuál palabra se usa para preguntar?",
+    "tipo": "unica",
+    "respuestas": { "2": "Qué" },
+    "opciones": { "1": "Mesa", "2": "Qué", "3": "Flor" }
+  },
+  {
+    "Pregunta": "¿Qué palabra es el nombre de una fruta?",
+    "tipo": "unica",
+    "respuestas": { "2": "Manzana" },
+    "opciones": { "1": "Zapato", "2": "Manzana", "3": "Cielo" }
+  },
+  {
+    "Pregunta": "¿Qué palabra significa algo que se bebe?",
+    "tipo": "unica",
+    "respuestas": { "1": "Agua" },
+    "opciones": { "1": "Agua", "2": "Camino", "3": "Silla" }
+  },
+  {
+    "Pregunta": "¿Cuál de estas palabras es un color?",
+    "tipo": "unica",
+    "respuestas": { "1": "Rojo" },
+    "opciones": { "1": "Rojo", "2": "Cuchara", "3": "Mesa" }
+  },
+  {
+    "Pregunta": "¿Qué palabra de la pregunta es mas larga?",
+    "tipo": "unica",
+    "respuestas": { "3": "pregunta" },
+    "opciones": { "1": "Sí", "2": "No", "3": "pregunta" }
+  },
+  {
+    "Pregunta": "Si un perro es un animal, ¿un gato es…?",
+    "tipo": "unica",
+    "respuestas": { "2": "Un animal" },
+    "opciones": { "1": "Una fruta", "2": "Un animal", "3": "Una mesa" }
+  },
+  {
+    "Pregunta": "Si el sol está en el cielo, la luna está…",
+    "tipo": "unica",
+    "respuestas": { "2": "En el cielo" },
+    "opciones": { "1": "En el mar", "2": "En el cielo", "3": "En la tierra" }
+  },
+  {
+    "Pregunta": "Si tienes 3 manzanas y comes 1, ¿cuántas te quedan?",
+    "tipo": "unica",
+    "respuestas": { "1": "2" },
+    "opciones": { "1": "2", "2": "4", "3": "1" }
+  },
+  {
+    "Pregunta": "¿Qué objeto se usa para sentarse?",
+    "tipo": "unica",
+    "respuestas": { "1": "Silla" },
+    "opciones": { "1": "Silla", "2": "Zapato", "3": "Cuchara" }
+  },
+  {
+    "Pregunta": "Si todos los peces nadan, ¿qué hace un pez?",
+    "tipo": "unica",
+    "respuestas": { "2": "Nada" },
+    "opciones": { "1": "Corre", "2": "Nada", "3": "Salta" }
+  },
+  {
+    "Pregunta": "Si hoy es lunes, mañana será…",
+    "tipo": "unica",
+    "respuestas": { "2": "Martes" },
+    "opciones": { "1": "Domingo", "2": "Martes", "3": "Viernes" }
+  },
+  {
+    "Pregunta": "¿Qué viene primero en el día?",
+    "tipo": "unica",
+    "respuestas": { "2": "La mañana" },
+    "opciones": { "1": "Lastima", "2": "La mañana", "3": "La tarde" }
+  },
+  {
+    "Pregunta": "Si una bicicleta tiene dos ruedas, un triciclo tiene…",
+    "tipo": "unica",
+    "respuestas": { "2": "3" },
+    "opciones": { "1": "4", "2": "3", "3": "2" }
+  },
+  {
+    "Pregunta": "¿Cuál de estos es más grande?",
+    "tipo": "unica",
+    "respuestas": { "1": "Elefante" },
+    "opciones": { "1": "Elefante", "2": "Ratón", "3": "Hormiga" }
+  },
+  {
+    "Pregunta": "Si el fuego quema, el hielo…",
+    "tipo": "unica",
+    "respuestas": { "2": "Enfría" },
+    "opciones": { "1": "Calienta", "2": "Enfría", "3": "Ilumina" }
+  },
+  {
+    "Pregunta": "Si las aves vuelan, los peces…",
+    "tipo": "unica",
+    "respuestas": { "2": "Nadan" },
+    "opciones": { "1": "Caminan", "2": "Nadan", "3": "Saltan" }
+  },
+  {
+    "Pregunta": "¿Qué objeto sirve para dormir?",
+    "tipo": "unica",
+    "respuestas": { "1": "Cama" },
+    "opciones": { "1": "Cama", "2": "Plato", "3": "Escoba" }
+  },
+  {
+    "Pregunta": "Si un niño es pequeño, un adulto es…",
+    "tipo": "unica",
+    "respuestas": { "1": "Grande" },
+    "opciones": { "1": "Grande", "2": "Pequeño", "3": "Juguete" }
+  },
+  {
+    "Pregunta": "Si el agua moja, la arena…",
+    "tipo": "unica",
+    "respuestas": { "1": "Seca" },
+    "opciones": { "1": "Seca", "2": "Corta", "3": "Vuela" }
+  },
+  {
+    "Pregunta": "¿Qué sigue después del número 5?",
+    "tipo": "unica",
+    "respuestas": { "1": "6" },
+    "opciones": { "1": "6", "2": "4", "3": "10" }
+  },
+  {
+    "Pregunta": "Si tienes frío, ¿qué necesitas?",
+    "tipo": "unica",
+    "respuestas": { "1": "Abrigo" },
+    "opciones": { "1": "Abrigo", "2": "Helado", "3": "Sombrilla" }
+  },
+  {
+    "Pregunta": "¿Qué es más rápido?",
+    "tipo": "unica",
+    "respuestas": { "2": "Un coche" },
+    "opciones": {
+      "1": "Una tortuga",
+      "2": "Un coche",
+      "3": "Una piedra quieta"
+    }
+  },
+  {
+    "Pregunta": "¿Cuál de estas palabras es \"sí\"?",
+    "tipo": "unica",
+    "respuestas": { "1": "Sí" },
+    "opciones": { "1": "Sí", "2": "No", "3": "Tal vez" }
+  },
+  {
+    "Pregunta": "Si una vaca dice \"mu\", ¿qué dice una vaca?",
+    "tipo": "unica",
+    "respuestas": { "1": "Mu" },
+    "opciones": { "1": "Mu", "2": "Hola", "3": "Gato" }
+  },
+  {
+    "Pregunta": "¿Qué pesa más: un kilo de plumas o un kilo de piedras?",
+    "tipo": "unica",
+    "respuestas": { "3": "Pesan igual" },
+    "opciones": { "1": "Plumas", "2": "Piedras", "3": "Pesan igual" }
+  },
+  {
+    "Pregunta": "¿Qué viene primero: antes o después?",
+    "tipo": "unica",
+    "respuestas": { "1": "Antes" },
+    "opciones": { "1": "Antes", "2": "Después", "3": "Ahora" }
+  },
+  {
+    "Pregunta": "¿Cuál es la respuesta correcta a esta pregunta?",
+    "tipo": "unica",
+    "respuestas": { "1": "Esta" },
+    "opciones": { "1": "Esta", "2": "No", "3": "Esta no" }
+  },
+  {
+    "Pregunta": "Si el agua moja, ¿qué hace el agua?",
+    "tipo": "unica",
+    "respuestas": { "1": "Moja" },
+    "opciones": { "1": "Moja", "2": "No moja", "3": "Se moja" }
+  },
+  {
+    "Pregunta": "¿Qué número es más grande?",
+    "tipo": "unica",
+    "respuestas": { "2": "2" },
+    "opciones": { "1": "1", "2": "2", "3": "1 pero con ganas" }
+  },
+  {
+    "Pregunta": "¿Cuántas veces puedes restar 1 al número 10?",
+    "tipo": "unica",
+    "respuestas": { "1": "10" },
+    "opciones": { "1": "10", "2": "1", "3": "Infinitas" }
+  },
+  {
+    "Pregunta": "Si estás durmiendo, ¿estás despierto?",
+    "tipo": "unica",
+    "respuestas": { "2": "No" },
+    "opciones": { "1": "Sí", "2": "No", "3": "Tal vez" }
+  },
+  {
+    "Pregunta": "¿Qué es más largo?",
+    "tipo": "unica",
+    "respuestas": { "1": "Largo", "3": "Lo mismo" },
+    "opciones": { "1": "Largo", "2": "Corto", "3": "Lo mismo" }
+  },
+  {
+    "Pregunta": "¿Qué opción tiene la palabra \"rojo\" escrita en color negro?",
+    "tipo": "unica",
+    "respuestas": { "1": "Rojo" },
+    "opciones": { "1": "Rojo", "2": "Azul", "3": "Ambos" }
+  },
+  {
+    "Pregunta": "¿Qué pesa menos?",
+    "tipo": "unica",
+    "respuestas": { "1": "Nada", "2": "Algo" },
+    "opciones": { "1": "Nada", "2": "Algo", "3": "Todo" }
+  },
+  {
+    "Pregunta": "Si digo que estoy mintiendo, ¿digo la verdad?",
+    "tipo": "unica",
+    "respuestas": { "1": "Sí" },
+    "opciones": { "1": "Sí", "2": "No", "3": "Depende" }
+  },
+  {
+    "Pregunta": "¿Qué viene después del final?",
+    "tipo": "unica",
+    "respuestas": { "2": "Nada" },
+    "opciones": { "1": "El inicio", "2": "Nada", "3": "Otro final" }
+  },
+  {
+    "Pregunta": "Si corres más rápido que el segundo, ¿en qué lugar quedas?",
+    "tipo": "unica",
+    "respuestas": { "2": "Segundo" },
+    "opciones": { "1": "Primero", "2": "Segundo", "3": "Tercero" }
+  },
+  {
+    "Pregunta": "¿Qué es más seguro?",
+    "tipo": "unica",
+    "respuestas": { "1": "Una caja fuerte cerrada" },
+    "opciones": {
+      "1": "Una caja fuerte cerrada",
+      "2": "Una caja fuerte abierta",
+      "3": "La caja fuerte abierta a la fuerza"
+    }
+  },
+  {
+    "Pregunta": "¿Cuál es la pregunta número 85?",
+    "tipo": "unica",
+    "respuestas": { "1": "Esta" },
+    "opciones": { "1": "Esta", "2": "La anterior", "3": "La primera" }
+  },
+  {
+    "Pregunta": "¿Sabes cómo se llama el planeta donde vives?",
+    "tipo": "unica",
+    "respuestas": { "2": "Tierra" },
+    "opciones": { "1": "Marte", "2": "Tierra", "3": "Tu ombligo" }
+  },
+  {
+    "Pregunta": "¿Qué necesitas para respirar?",
+    "tipo": "unica",
+    "respuestas": { "1": "Aire" },
+    "opciones": { "1": "Aire", "2": "Agua", "3": "Nada. eres un pez secreto" }
+  },
+  {
+    "Pregunta": "Si tienes hambre, ¿qué haces?",
+    "tipo": "unica",
+    "respuestas": { "1": "Comer" },
+    "opciones": {
+      "1": "Comer",
+      "2": "Dormir",
+      "3": "Mirar la comida hasta que desaparezca"
+    }
+  },
+  {
+    "Pregunta": "¿Qué sale cuando abres los ojos?",
+    "tipo": "unica",
+    "respuestas": { "1": "Vista" },
+    "opciones": { "1": "Vista", "2": "Luz", "3": "Nada. porque ni piensas" }
+  },
+  {
+    "Pregunta": "¿Cuál es el opuesto de \"arriba\"?",
+    "tipo": "unica",
+    "respuestas": { "1": "Abajo" },
+    "opciones": {
+      "1": "Abajo",
+      "2": "A un lado",
+      "3": "Donde tú quieras. total da igual"
+    }
+  },
+  {
+    "Pregunta": "Si estás de pie, ¿qué NO estás?",
+    "tipo": "unica",
+    "respuestas": { "1": "Sentado" },
+    "opciones": { "1": "Sentado", "2": "Acostado", "3": "Pensando" }
+  },
+  {
+    "Pregunta": "¿Qué usas para escuchar?",
+    "tipo": "unica",
+    "respuestas": { "1": "Oídos" },
+    "opciones": { "1": "Oídos", "2": "Pies", "3": "Tu \"intuición mágica\"" }
+  },
+  {
+    "Pregunta": "Si el fuego quema, ¿qué hace el hielo?",
+    "tipo": "unica",
+    "respuestas": { "1": "Enfría" },
+    "opciones": {
+      "1": "Enfría",
+      "2": "Baila",
+      "3": "Quema. si no sabes usar el cerebro"
+    }
+  },
+  {
+    "Pregunta": "¿Cómo se llama el lugar donde vives?",
+    "tipo": "unica",
+    "respuestas": { "1": "Una casa" },
+    "opciones": {
+      "1": "Una casa",
+      "2": "Una piedra",
+      "3": "En la cabeza de alguien"
+    }
+  },
+  {
+    "Pregunta": "¿Qué palabra significa \"sí\"?",
+    "tipo": "unica",
+    "respuestas": { "1": "Sí" },
+    "opciones": { "1": "Sí", "2": "No", "3": "Ay. ¿de verdad tienes dudas?" }
+  },
+  {
+    "Pregunta": "Si tienes dos ojos, ¿cuántos ojos tienes?",
+    "tipo": "unica",
+    "respuestas": { "1": "2" },
+    "opciones": {
+      "1": "2",
+      "2": "4",
+      "3": "Los que alcances a contar sin equivocarte"
+    }
+  },
+  {
+    "Pregunta": "¿Qué usas para caminar?",
+    "tipo": "unica",
+    "respuestas": { "1": "Piernas" },
+    "opciones": {
+      "1": "Piernas",
+      "2": "Manos",
+      "3": "La mente… aunque claramente no mucho"
+    }
+  },
+  {
+    "Pregunta": "¿Qué es más rápido: un coche o una tortuga?",
+    "tipo": "unica",
+    "respuestas": { "1": "Un coche" },
+    "opciones": {
+      "1": "Un coche",
+      "2": "Una tortuga",
+      "3": "Depende de si el coche lo manejas tú"
+    }
+  },
+  {
+    "Pregunta": "¿Para qué sirve una cama?",
+    "tipo": "unica",
+    "respuestas": { "1": "Dormir" },
+    "opciones": {
+      "1": "Dormir",
+      "2": "Comer",
+      "3": "Para pensar la respuesta durante horas"
+    }
+  },
+  {
+    "Pregunta": "¿Qué estás usando ahora mismo para leer?",
+    "tipo": "unica",
+    "respuestas": { "1": "Ojos" },
+    "opciones": {
+      "1": "Ojos",
+      "2": "Orejas",
+      "3": "Nada. alguien te lo contó porque no puedes leer"
+    }
+  }
+]

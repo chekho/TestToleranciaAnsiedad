@@ -1,0 +1,1285 @@
+[
+  {
+    "fecha": "2025-09-29T19:35:56.264Z",
+    "seccionesCompletadas": 4,
+    "secciones": [
+      {
+        "seccion": "Sección 1",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "Estoy haciendo un test",
+            "correctas": [
+              "Si",
+              "Estoy haciendo un test",
+              "Solo contestando"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "si",
+            "correctas": [
+              "si",
+              "nose que estoy usando",
+              "puede ser"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "si",
+            "correctas": [
+              "si",
+              "no lo sé",
+              "nunca me había fijado en eso"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "por supuesto",
+            "correctas": [
+              "no tengo ni idea",
+              "por supuesto",
+              "prefiero no contestar"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "no",
+            "correctas": [
+              "no",
+              "si",
+              "nose"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "con nubes",
+            "correctas": [
+              "con nubes",
+              "Azul"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "mas de 10",
+            "correctas": [
+              "mas de 1",
+              "mas de 10",
+              "mas de 100"
+            ]
+          },
+          {
+            "indexPregunta": 7,
+            "opcion": "la saludan",
+            "correctas": [
+              "la saludan",
+              "le preguntan el nombre",
+              "le preguntan del día"
+            ]
+          },
+          {
+            "indexPregunta": 8,
+            "opcion": "celulas destruidas",
+            "correctas": [
+              "sufrir un daño",
+              "celulas destruidas"
+            ]
+          },
+          {
+            "indexPregunta": 9,
+            "opcion": "soy un organismo vivo",
+            "correctas": [
+              "soy un homo sapiens sapiens",
+              "soy un organismo vivo",
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 10,
+            "opcion": "bacterias",
+            "correctas": [
+              "bacterias",
+              "temperatura",
+              "velocidad"
+            ]
+          },
+          {
+            "indexPregunta": 11,
+            "opcion": "mantenernos vivos",
+            "correctas": [
+              "mantenernos vivos",
+              "hidratar los órganos",
+              "medio de transferencia"
+            ]
+          },
+          {
+            "indexPregunta": 12,
+            "opcion": "nose lo que dice",
+            "correctas": [
+              "si",
+              "nose lo que dice",
+              "nose solo contesto y ya"
+            ]
+          },
+          {
+            "indexPregunta": 13,
+            "opcion": "absurdas",
+            "correctas": [
+              "absurdas",
+              "graciosas",
+              "¿Esto es un juego?",
+              "que desperdician mi tiempo"
+            ]
+          },
+          {
+            "indexPregunta": 14,
+            "opcion": "DSM-V",
+            "correctas": [
+              "la biblia",
+              "DSM-V",
+              "meditaciones"
+            ]
+          },
+          {
+            "indexPregunta": 15,
+            "opcion": "no se. solo se que hay una estrella muy cerca de nosotros que nos brinda calor",
+            "correctas": [
+              "no se. solo se que hay una estrella muy cerca de nosotros que nos brinda calor",
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 16,
+            "opcion": "reproducción",
+            "correctas": [
+              "reproducción",
+              "edad",
+              "vida y muerte"
+            ]
+          }
+        ],
+        "rendiciones": []
+      },
+      {
+        "seccion": "Sección 2",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "12",
+            "correctas": [
+              "12"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "29",
+            "correctas": [
+              "29"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "negro",
+            "correctas": [
+              "negro"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "23",
+            "correctas": [
+              "23"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 7,
+            "opcion": "para recuperar energía y no desgastarnos",
+            "correctas": [
+              "para recuperar energía y no desgastarnos"
+            ]
+          },
+          {
+            "indexPregunta": 8,
+            "opcion": "saber utilizar tu conocimiento y que tanto tienes",
+            "correctas": [
+              "saber utilizar tu conocimiento y que tanto tienes"
+            ]
+          },
+          {
+            "indexPregunta": 9,
+            "opcion": "tolerancia al estrés y ansiedad",
+            "correctas": [
+              "tolerancia al estrés y ansiedad"
+            ]
+          },
+          {
+            "indexPregunta": 10,
+            "opcion": "doctor house",
+            "correctas": [
+              "doctor house"
+            ]
+          },
+          {
+            "indexPregunta": 11,
+            "opcion": "no",
+            "correctas": [
+              "no"
+            ]
+          },
+          {
+            "indexPregunta": 12,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 13,
+            "opcion": "56",
+            "correctas": [
+              "56"
+            ]
+          },
+          {
+            "indexPregunta": 14,
+            "opcion": "7",
+            "correctas": [
+              "7"
+            ]
+          },
+          {
+            "indexPregunta": 15,
+            "opcion": "cerebro",
+            "correctas": [
+              "cerebro"
+            ]
+          },
+          {
+            "indexPregunta": 16,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          }
+        ],
+        "rendiciones": []
+      },
+      {
+        "seccion": "Sección 3",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "Con letras",
+            "correctas": [
+              "Con letras"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "B",
+            "correctas": [
+              "B"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "A",
+            "correctas": [
+              "A"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "Sol",
+            "correctas": [
+              "Sol"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "P",
+            "correctas": [
+              "P"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "G",
+            "correctas": [
+              "G"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "4",
+            "correctas": [
+              "4"
+            ]
+          },
+          {
+            "indexPregunta": 7,
+            "opcion": "Mariposa",
+            "correctas": [
+              "Mariposa"
+            ]
+          },
+          {
+            "indexPregunta": 8,
+            "opcion": "Camión",
+            "correctas": [
+              "Camión"
+            ]
+          },
+          {
+            "indexPregunta": 9,
+            "opcion": "Hola",
+            "correctas": [
+              "Hola"
+            ]
+          },
+          {
+            "indexPregunta": 10,
+            "opcion": "Vaca",
+            "correctas": [
+              "Vaca"
+            ]
+          },
+          {
+            "indexPregunta": 11,
+            "opcion": "Adiós",
+            "correctas": [
+              "Adiós"
+            ]
+          },
+          {
+            "indexPregunta": 12,
+            "opcion": "Qué",
+            "correctas": [
+              "Qué"
+            ]
+          },
+          {
+            "indexPregunta": 13,
+            "opcion": "Manzana",
+            "correctas": [
+              "Manzana"
+            ]
+          },
+          {
+            "indexPregunta": 14,
+            "opcion": "Agua",
+            "correctas": [
+              "Agua"
+            ]
+          },
+          {
+            "indexPregunta": 15,
+            "opcion": "Rojo",
+            "correctas": [
+              "Rojo"
+            ]
+          },
+          {
+            "indexPregunta": 16,
+            "opcion": "pregunta",
+            "correctas": [
+              "pregunta"
+            ]
+          }
+        ],
+        "rendiciones": []
+      },
+      {
+        "seccion": "Sección 4",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "Un animal",
+            "correctas": [
+              "Un animal"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "En el cielo",
+            "correctas": [
+              "En el cielo"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "2",
+            "correctas": [
+              "2"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "Silla",
+            "correctas": [
+              "Silla"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "Nada",
+            "correctas": [
+              "Nada"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "Martes",
+            "correctas": [
+              "Martes"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "La mañana",
+            "correctas": [
+              "La mañana"
+            ]
+          },
+          {
+            "indexPregunta": 7,
+            "opcion": "3",
+            "correctas": [
+              "3"
+            ]
+          },
+          {
+            "indexPregunta": 8,
+            "opcion": "Elefante",
+            "correctas": [
+              "Elefante"
+            ]
+          },
+          {
+            "indexPregunta": 9,
+            "opcion": "Enfría",
+            "correctas": [
+              "Enfría"
+            ]
+          },
+          {
+            "indexPregunta": 10,
+            "opcion": "Nadan",
+            "correctas": [
+              "Nadan"
+            ]
+          },
+          {
+            "indexPregunta": 11,
+            "opcion": "Cama",
+            "correctas": [
+              "Cama"
+            ]
+          },
+          {
+            "indexPregunta": 12,
+            "opcion": "Grande",
+            "correctas": [
+              "Grande"
+            ]
+          },
+          {
+            "indexPregunta": 13,
+            "opcion": "Seca",
+            "correctas": [
+              "Seca"
+            ]
+          },
+          {
+            "indexPregunta": 14,
+            "opcion": "6",
+            "correctas": [
+              "6"
+            ]
+          },
+          {
+            "indexPregunta": 15,
+            "opcion": "Abrigo",
+            "correctas": [
+              "Abrigo"
+            ]
+          },
+          {
+            "indexPregunta": 16,
+            "opcion": "Un coche",
+            "correctas": [
+              "Un coche"
+            ]
+          }
+        ],
+        "rendiciones": []
+      },
+      {
+        "seccion": "Sección 5",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "Sí",
+            "correctas": [
+              "Sí"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "Mu",
+            "correctas": [
+              "Mu"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "Pesan igual",
+            "correctas": [
+              "Pesan igual"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "Antes",
+            "correctas": [
+              "Antes"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "Esta",
+            "correctas": [
+              "Esta"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "Moja",
+            "correctas": [
+              "Moja"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "2",
+            "correctas": [
+              "1 pero con ganas"
+            ]
+          }
+        ],
+        "rendiciones": [
+          {
+            "seccion": "Sección 5",
+            "indexPregunta": 6,
+            "tipo": "fallo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "fecha": "2025-09-29T19:40:09.457Z",
+    "seccionesCompletadas": 5,
+    "secciones": [
+      {
+        "seccion": "Sección 1",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "Si",
+            "correctas": [
+              "Si",
+              "Estoy haciendo un test",
+              "Solo contestando"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "nose que estoy usando",
+            "correctas": [
+              "si",
+              "nose que estoy usando",
+              "puede ser"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "no lo sé",
+            "correctas": [
+              "si",
+              "no lo sé",
+              "nunca me había fijado en eso"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "por supuesto",
+            "correctas": [
+              "no tengo ni idea",
+              "por supuesto",
+              "prefiero no contestar"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "si",
+            "correctas": [
+              "no",
+              "si",
+              "nose"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "con nubes",
+            "correctas": [
+              "con nubes",
+              "Azul"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "mas de 1",
+            "correctas": [
+              "mas de 1",
+              "mas de 10",
+              "mas de 100"
+            ]
+          },
+          {
+            "indexPregunta": 7,
+            "opcion": "la saludan",
+            "correctas": [
+              "la saludan",
+              "le preguntan el nombre",
+              "le preguntan del día"
+            ]
+          },
+          {
+            "indexPregunta": 8,
+            "opcion": "sufrir un daño",
+            "correctas": [
+              "sufrir un daño",
+              "celulas destruidas"
+            ]
+          },
+          {
+            "indexPregunta": 9,
+            "opcion": "soy un homo sapiens sapiens",
+            "correctas": [
+              "soy un homo sapiens sapiens",
+              "soy un organismo vivo",
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 10,
+            "opcion": "bacterias",
+            "correctas": [
+              "bacterias",
+              "temperatura",
+              "velocidad"
+            ]
+          },
+          {
+            "indexPregunta": 11,
+            "opcion": "mantenernos vivos",
+            "correctas": [
+              "mantenernos vivos",
+              "hidratar los órganos",
+              "medio de transferencia"
+            ]
+          },
+          {
+            "indexPregunta": 12,
+            "opcion": "si",
+            "correctas": [
+              "si",
+              "nose lo que dice",
+              "nose solo contesto y ya"
+            ]
+          },
+          {
+            "indexPregunta": 13,
+            "opcion": "graciosas",
+            "correctas": [
+              "absurdas",
+              "graciosas",
+              "¿Esto es un juego?",
+              "que desperdician mi tiempo"
+            ]
+          },
+          {
+            "indexPregunta": 14,
+            "opcion": "la biblia",
+            "correctas": [
+              "la biblia",
+              "DSM-V",
+              "meditaciones"
+            ]
+          },
+          {
+            "indexPregunta": 15,
+            "opcion": "no se. solo se que hay una estrella muy cerca de nosotros que nos brinda calor",
+            "correctas": [
+              "no se. solo se que hay una estrella muy cerca de nosotros que nos brinda calor",
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 16,
+            "opcion": "reproducción",
+            "correctas": [
+              "reproducción",
+              "edad",
+              "vida y muerte"
+            ]
+          }
+        ],
+        "rendiciones": []
+      },
+      {
+        "seccion": "Sección 2",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "12",
+            "correctas": [
+              "12"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "29",
+            "correctas": [
+              "29"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "negro",
+            "correctas": [
+              "negro"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "23",
+            "correctas": [
+              "23"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 7,
+            "opcion": "para recuperar energía y no desgastarnos",
+            "correctas": [
+              "para recuperar energía y no desgastarnos"
+            ]
+          },
+          {
+            "indexPregunta": 8,
+            "opcion": "saber utilizar tu conocimiento y que tanto tienes",
+            "correctas": [
+              "saber utilizar tu conocimiento y que tanto tienes"
+            ]
+          },
+          {
+            "indexPregunta": 9,
+            "opcion": "tolerancia al estrés y ansiedad",
+            "correctas": [
+              "tolerancia al estrés y ansiedad"
+            ]
+          },
+          {
+            "indexPregunta": 10,
+            "opcion": "doctor house",
+            "correctas": [
+              "doctor house"
+            ]
+          },
+          {
+            "indexPregunta": 11,
+            "opcion": "no",
+            "correctas": [
+              "no"
+            ]
+          },
+          {
+            "indexPregunta": 12,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          },
+          {
+            "indexPregunta": 13,
+            "opcion": "56",
+            "correctas": [
+              "56"
+            ]
+          },
+          {
+            "indexPregunta": 14,
+            "opcion": "7",
+            "correctas": [
+              "7"
+            ]
+          },
+          {
+            "indexPregunta": 15,
+            "opcion": "cerebro",
+            "correctas": [
+              "cerebro"
+            ]
+          },
+          {
+            "indexPregunta": 16,
+            "opcion": "si",
+            "correctas": [
+              "si"
+            ]
+          }
+        ],
+        "rendiciones": []
+      },
+      {
+        "seccion": "Sección 3",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "Con letras",
+            "correctas": [
+              "Con letras"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "B",
+            "correctas": [
+              "B"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "A",
+            "correctas": [
+              "A"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "Sol",
+            "correctas": [
+              "Sol"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "P",
+            "correctas": [
+              "P"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "G",
+            "correctas": [
+              "G"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "4",
+            "correctas": [
+              "4"
+            ]
+          },
+          {
+            "indexPregunta": 7,
+            "opcion": "Mariposa",
+            "correctas": [
+              "Mariposa"
+            ]
+          },
+          {
+            "indexPregunta": 8,
+            "opcion": "Camión",
+            "correctas": [
+              "Camión"
+            ]
+          },
+          {
+            "indexPregunta": 9,
+            "opcion": "Hola",
+            "correctas": [
+              "Hola"
+            ]
+          },
+          {
+            "indexPregunta": 10,
+            "opcion": "Vaca",
+            "correctas": [
+              "Vaca"
+            ]
+          },
+          {
+            "indexPregunta": 11,
+            "opcion": "Adiós",
+            "correctas": [
+              "Adiós"
+            ]
+          },
+          {
+            "indexPregunta": 12,
+            "opcion": "Qué",
+            "correctas": [
+              "Qué"
+            ]
+          },
+          {
+            "indexPregunta": 13,
+            "opcion": "Manzana",
+            "correctas": [
+              "Manzana"
+            ]
+          },
+          {
+            "indexPregunta": 14,
+            "opcion": "Agua",
+            "correctas": [
+              "Agua"
+            ]
+          },
+          {
+            "indexPregunta": 15,
+            "opcion": "Rojo",
+            "correctas": [
+              "Rojo"
+            ]
+          },
+          {
+            "indexPregunta": 16,
+            "opcion": "pregunta",
+            "correctas": [
+              "pregunta"
+            ]
+          }
+        ],
+        "rendiciones": []
+      },
+      {
+        "seccion": "Sección 4",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "Un animal",
+            "correctas": [
+              "Un animal"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "En el cielo",
+            "correctas": [
+              "En el cielo"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "2",
+            "correctas": [
+              "2"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "Silla",
+            "correctas": [
+              "Silla"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "Nada",
+            "correctas": [
+              "Nada"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "Martes",
+            "correctas": [
+              "Martes"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "La mañana",
+            "correctas": [
+              "La mañana"
+            ]
+          },
+          {
+            "indexPregunta": 7,
+            "opcion": "3",
+            "correctas": [
+              "3"
+            ]
+          },
+          {
+            "indexPregunta": 8,
+            "opcion": "Elefante",
+            "correctas": [
+              "Elefante"
+            ]
+          },
+          {
+            "indexPregunta": 9,
+            "opcion": "Enfría",
+            "correctas": [
+              "Enfría"
+            ]
+          },
+          {
+            "indexPregunta": 10,
+            "opcion": "Nadan",
+            "correctas": [
+              "Nadan"
+            ]
+          },
+          {
+            "indexPregunta": 11,
+            "opcion": "Cama",
+            "correctas": [
+              "Cama"
+            ]
+          },
+          {
+            "indexPregunta": 12,
+            "opcion": "Grande",
+            "correctas": [
+              "Grande"
+            ]
+          },
+          {
+            "indexPregunta": 13,
+            "opcion": "Seca",
+            "correctas": [
+              "Seca"
+            ]
+          },
+          {
+            "indexPregunta": 14,
+            "opcion": "6",
+            "correctas": [
+              "6"
+            ]
+          },
+          {
+            "indexPregunta": 15,
+            "opcion": "Abrigo",
+            "correctas": [
+              "Abrigo"
+            ]
+          },
+          {
+            "indexPregunta": 16,
+            "opcion": "Un coche",
+            "correctas": [
+              "Un coche"
+            ]
+          }
+        ],
+        "rendiciones": []
+      },
+      {
+        "seccion": "Sección 5",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "Sí",
+            "correctas": [
+              "Sí"
+            ]
+          },
+          {
+            "indexPregunta": 1,
+            "opcion": "Mu",
+            "correctas": [
+              "Mu"
+            ]
+          },
+          {
+            "indexPregunta": 2,
+            "opcion": "Pesan igual",
+            "correctas": [
+              "Pesan igual"
+            ]
+          },
+          {
+            "indexPregunta": 3,
+            "opcion": "Antes",
+            "correctas": [
+              "Antes"
+            ]
+          },
+          {
+            "indexPregunta": 4,
+            "opcion": "Esta",
+            "correctas": [
+              "Esta"
+            ]
+          },
+          {
+            "indexPregunta": 5,
+            "opcion": "Moja",
+            "correctas": [
+              "Moja"
+            ]
+          },
+          {
+            "indexPregunta": 6,
+            "opcion": "2",
+            "correctas": [
+              "2"
+            ]
+          },
+          {
+            "indexPregunta": 7,
+            "opcion": "10",
+            "correctas": [
+              "10"
+            ]
+          },
+          {
+            "indexPregunta": 8,
+            "opcion": "No",
+            "correctas": [
+              "No"
+            ]
+          },
+          {
+            "indexPregunta": 9,
+            "opcion": "Lo mismo",
+            "correctas": [
+              "Largo",
+              "Lo mismo"
+            ]
+          },
+          {
+            "indexPregunta": 10,
+            "opcion": "Rojo",
+            "correctas": [
+              "Rojo"
+            ]
+          },
+          {
+            "indexPregunta": 11,
+            "opcion": "Nada",
+            "correctas": [
+              "Nada",
+              "Algo"
+            ]
+          },
+          {
+            "indexPregunta": 12,
+            "opcion": "Sí",
+            "correctas": [
+              "Sí"
+            ]
+          },
+          {
+            "indexPregunta": 13,
+            "opcion": "Nada",
+            "correctas": [
+              "Nada"
+            ]
+          },
+          {
+            "indexPregunta": 14,
+            "opcion": "Segundo",
+            "correctas": [
+              "Segundo"
+            ]
+          },
+          {
+            "indexPregunta": 15,
+            "opcion": "Una caja fuerte cerrada",
+            "correctas": [
+              "Una caja fuerte cerrada"
+            ]
+          },
+          {
+            "indexPregunta": 16,
+            "opcion": "Esta",
+            "correctas": [
+              "Esta"
+            ]
+          }
+        ],
+        "rendiciones": []
+      },
+      {
+        "seccion": "Sección 6",
+        "respuestas": [
+          {
+            "indexPregunta": 0,
+            "opcion": "Marte",
+            "correctas": [
+              "Tierra"
+            ]
+          }
+        ],
+        "rendiciones": [
+          {
+            "seccion": "Sección 6",
+            "indexPregunta": 0,
+            "tipo": "fallo"
+          }
+        ]
+      }
+    ]
+  }
+]

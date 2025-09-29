@@ -1,0 +1,166 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #4285f4;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  font-weight: normal;
+}
+
+#seccion {
+  padding: 20px;
+  max-width: 700px;
+  margin: auto;
+}
+
+.pregunta {
+  background: white;
+  padding: 15px 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.pregunta p {
+  font-weight: 500;
+}
+
+.opciones label {
+  display: block;
+  margin: 6px 0;
+  cursor: pointer;
+}
+
+.opciones input {
+  margin-right: 6px;
+}
+
+.seleccionado {
+  background: #4285f4;
+  color: white;
+}
+
+#panelDerecho {
+  position: fixed;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 1000;
+}
+
+button {
+  padding: 12px 16px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+#pasar {
+  background: #34a853;
+  color: white;
+}
+
+#aceptar {
+  background: #4285f4;
+  color: white;
+}
+
+#pasar:hover {
+  background: #2c8e46;
+}
+
+#rendirse {
+  background: #ea4335;
+  color: white;
+}
+
+#rendirse:hover {
+  background: #c9302c;
+}
+
+#timer {
+  font-weight: bold;
+  text-align: center;
+  font-size: 16px;
+  color: #ea4335;
+  background: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  display: none;
+}
+
+#descripcion {
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+}
+
+#descripcion p {
+  margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+  #panelDerecho {
+    position: fixed;
+    top: 93%;
+    right: 0%;
+    left: 0%;
+    transform: none;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  #panelDerecho button {
+    padding: 10px;
+    font-size: 12px;
+  }
+  #timer {
+    font-size: 14px;
+    padding: 8px;
+  }
+  #seccion {
+    padding: 15px;
+    max-width: 100%;
+  }
+  .pregunta {
+    padding: 10px 15px;
+  }
+  #descripcion {
+    padding: 20px;
+    max-width: 100%;
+    margin: 30px 10px;
+  }
+}
+@media (max-width: 480px) {
+  #panelDerecho {
+    flex-direction: row;
+    align-items: stretch;
+  }
+  #panelDerecho button {
+    width: 100%;
+  }
+}
